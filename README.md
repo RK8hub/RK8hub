@@ -36,7 +36,7 @@ Desarrollo producto web y herramientas IT bajo la marca [RK8](https://rk8.dev). 
 
 ## Código abierto
 
-[Copycat](https://github.com/RK8hub/Copycat) · [F.A.R](https://github.com/RK8hub/F.A.R) · [CinePlus](https://github.com/RK8hub/CinePlus) · [UtilitiesIT](https://github.com/RK8hub/UtilitiesIT)
+[Copycat](https://github.com/RK8hub/Copycat) · [F.A.R](https://github.com/RK8hub/F.A.R) · [CinePlus](https://github.com/RK8hub/CinePlus)
 
 ## Cómo trabajo
 
