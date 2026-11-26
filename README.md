@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="https://flagcdn.com/w40/ni.png" width="30" height="18" alt="Bandera de Nicaragua" /> Raúl Aguilar — RK8 <img src="https://flagcdn.com/w40/ni.png" width="30" height="18" alt="Bandera de Nicaragua" /></h1>
+# 🇳🇮 Raúl Aguilar — RK8 🇳🇮
 
 **Producto web · herramientas IT · Nicaragua**
 
