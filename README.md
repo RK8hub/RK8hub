@@ -24,8 +24,8 @@ Desarrollo producto web y herramientas IT bajo la marca [RK8](https://rk8.dev). 
   <tr>
     <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RK8hub&amp;show_icons=true&amp;title_color=F2F0EB&amp;icon_color=F2F0EB&amp;text_color=A5A5A5&amp;bg_color=141414&amp;hide_border=true&amp;hide=prs%2Cissues%2Ccontribs&amp;hide_rank=true&amp;disable_animations=true&amp;v=6" />
-        <img src="https://github-readme-stats.vercel.app/api?username=RK8hub&amp;show_icons=true&amp;title_color=252525&amp;icon_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;hide=prs%2Cissues%2Ccontribs&amp;hide_rank=true&amp;disable_animations=true&amp;v=6" alt="Estadísticas de GitHub" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RK8hub&amp;show_icons=true&amp;title_color=F2F0EB&amp;icon_color=F2F0EB&amp;text_color=A5A5A5&amp;bg_color=141414&amp;hide_border=true&amp;hide_title=true&amp;hide_rank=true&amp;disable_animations=true&amp;v=7" />
+        <img src="https://github-readme-stats.vercel.app/api?username=RK8hub&amp;show_icons=true&amp;title_color=252525&amp;icon_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;hide_title=true&amp;hide_rank=true&amp;disable_animations=true&amp;v=7" alt="Estadísticas de GitHub" />
       </picture>
     </td>
     <td width="50%">
