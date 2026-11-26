@@ -7,12 +7,12 @@
 [![Portafolio](https://img.shields.io/badge/Portafolio-raul.aguilar.rk8.dev-252525?style=for-the-badge&labelColor=555555&logo=globe&logoColor=F2F0EB)](https://raul.aguilar.rk8.dev)
 [![Email](https://img.shields.io/badge/Email-raul_aguilar%40rk8.dev-252525?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=F2F0EB)](mailto:raul_aguilar@rk8.dev)
 
-[![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Flet](https://img.shields.io/badge/Flet-0B6AEF?style=for-the-badge)](https://flet.dev)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Astro](https://img.shields.io/badge/Astro-ff5a03?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-663399?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Flet](https://img.shields.io/badge/Flet-3572A5?style=for-the-badge)](https://flet.dev)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-141414?style=for-the-badge&logo=githubactions&logoColor=F2F0EB)](https://github.com/features/actions)
 
 Desarrollo producto web y herramientas IT bajo la marca [RK8](https://rk8.dev). Calma, café y código cuidado.
 
