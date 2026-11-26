@@ -19,7 +19,7 @@ Desarrollo producto web y herramientas IT bajo la marca [RK8](https://rk8.dev). 
 <table>
   <tr>
     <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=RK8hub&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" /></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RK8hub&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RK8hub&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Lenguajes más usados" /></td>
   </tr>
 </table>
 
