@@ -7,12 +7,12 @@
 [![Portafolio](https://img.shields.io/badge/Portafolio-raul.aguilar.rk8.dev-252525?style=for-the-badge&labelColor=555555&logo=globe&logoColor=F2F0EB)](https://raul.aguilar.rk8.dev)
 [![Email](https://img.shields.io/badge/Email-raul_aguilar%40rk8.dev-252525?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=F2F0EB)](mailto:raul_aguilar@rk8.dev)
 
-[![Astro](https://img.shields.io/badge/Astro-252525?style=for-the-badge&logo=astro&logoColor=F2F0EB)](https://astro.build)
-[![TypeScript](https://img.shields.io/badge/TypeScript-252525?style=for-the-badge&logo=typescript&logoColor=F2F0EB)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-252525?style=for-the-badge&logo=tailwindcss&logoColor=F2F0EB)](https://tailwindcss.com)
-[![Python](https://img.shields.io/badge/Python-252525?style=for-the-badge&logo=python&logoColor=F2F0EB)](https://www.python.org/)
-[![Flet](https://img.shields.io/badge/Flet-252525?style=for-the-badge&logo=Flet&logoColor=F2F0EB)](https://flet.dev)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-252525?style=for-the-badge&logo=githubactions&logoColor=F2F0EB)](https://github.com/features/actions)
+[![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Flet](https://img.shields.io/badge/Flet-0B6AEF?style=for-the-badge)](https://flet.dev)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 Desarrollo producto web y herramientas IT bajo la marca [RK8](https://rk8.dev). Calma, café y código cuidado.
 
@@ -25,14 +25,12 @@ Desarrollo producto web y herramientas IT bajo la marca [RK8](https://rk8.dev). 
     <td width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RK8hub&amp;show_icons=true&amp;title_color=F2F0EB&amp;icon_color=F2F0EB&amp;text_color=A5A5A5&amp;bg_color=141414&amp;hide_border=true&amp;v=3" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RK8hub&amp;show_icons=true&amp;title_color=252525&amp;icon_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;v=3" />
         <img src="https://github-readme-stats.vercel.app/api?username=RK8hub&amp;show_icons=true&amp;title_color=252525&amp;icon_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;v=3" alt="Estadísticas de GitHub" />
       </picture>
     </td>
     <td width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RK8hub&amp;layout=compact&amp;title_color=F2F0EB&amp;text_color=A5A5A5&amp;bg_color=141414&amp;hide_border=true&amp;v=3" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RK8hub&amp;layout=compact&amp;title_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;v=3" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RK8hub&amp;layout=compact&amp;title_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;v=3" alt="Lenguajes más usados" />
       </picture>
     </td>
@@ -41,16 +39,10 @@ Desarrollo producto web y herramientas IT bajo la marca [RK8](https://rk8.dev). 
 
 ## 01 — Proyectos destacados
 
-<a href="https://github.com/RK8hub/EquipTracker"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RK8hub&amp;repo=EquipTracker&amp;title_color=F2F0EB&amp;text_color=A5A5A5&amp;bg_color=141414&amp;hide_border=true&amp;v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RK8hub&amp;repo=EquipTracker&amp;title_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;v=3" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RK8hub&amp;repo=EquipTracker&amp;title_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;v=3" alt="EquipTracker" />
-</picture></a>
-<a href="https://github.com/RK8-HQ/PinoleroPrints"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RK8-HQ&amp;repo=PinoleroPrints&amp;title_color=F2F0EB&amp;text_color=A5A5A5&amp;bg_color=141414&amp;hide_border=true&amp;v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RK8-HQ&amp;repo=PinoleroPrints&amp;title_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;v=3" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RK8-HQ&amp;repo=PinoleroPrints&amp;title_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;v=3" alt="PinoleroPrints" />
-</picture></a>
+<a href="https://github.com/RK8hub/EquipTracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RK8hub&amp;repo=EquipTracker&amp;title_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;v=3#gh-light-mode-only" alt="EquipTracker" /></a>
+<a href="https://github.com/RK8hub/EquipTracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RK8hub&amp;repo=EquipTracker&amp;title_color=F2F0EB&amp;text_color=A5A5A5&amp;bg_color=141414&amp;hide_border=true&amp;v=3#gh-dark-mode-only" alt="EquipTracker" /></a>
+<a href="https://github.com/RK8-HQ/PinoleroPrints"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RK8-HQ&amp;repo=PinoleroPrints&amp;title_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;v=3#gh-light-mode-only" alt="PinoleroPrints" /></a>
+<a href="https://github.com/RK8-HQ/PinoleroPrints"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RK8-HQ&amp;repo=PinoleroPrints&amp;title_color=F2F0EB&amp;text_color=A5A5A5&amp;bg_color=141414&amp;hide_border=true&amp;v=3#gh-dark-mode-only" alt="PinoleroPrints" /></a>
 
 | Proyecto | Qué resuelve | Sitio |
 | --- | --- | --- |
