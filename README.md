@@ -14,7 +14,7 @@
 [![Flet](https://img.shields.io/badge/Flet-3572A5?style=for-the-badge)](https://flet.dev)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-141414?style=for-the-badge&logo=githubactions&logoColor=F2F0EB)](https://github.com/features/actions)
 
-Desarrollo producto web y herramientas IT bajo la marca [RK8](https://rk8.dev). Calma, café y código cuidado.
+Desarrollo producto web y herramientas IT bajo la marca [RK8](https://rk8.dev). Calma, té y código cuidado.
 
 </div>
 
