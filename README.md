@@ -39,10 +39,10 @@ Desarrollo producto web y herramientas IT bajo la marca [RK8](https://rk8.dev). 
 
 ## 01 — Proyectos destacados
 
-<a href="https://github.com/RK8hub/EquipTracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RK8hub&amp;repo=EquipTracker&amp;title_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;v=3#gh-light-mode-only" alt="EquipTracker" /></a>
-<a href="https://github.com/RK8hub/EquipTracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RK8hub&amp;repo=EquipTracker&amp;title_color=F2F0EB&amp;text_color=A5A5A5&amp;bg_color=141414&amp;hide_border=true&amp;v=3#gh-dark-mode-only" alt="EquipTracker" /></a>
-<a href="https://github.com/RK8-HQ/PinoleroPrints"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RK8-HQ&amp;repo=PinoleroPrints&amp;title_color=252525&amp;text_color=777777&amp;bg_color=F2F0EB&amp;hide_border=true&amp;v=3#gh-light-mode-only" alt="PinoleroPrints" /></a>
-<a href="https://github.com/RK8-HQ/PinoleroPrints"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RK8-HQ&amp;repo=PinoleroPrints&amp;title_color=F2F0EB&amp;text_color=A5A5A5&amp;bg_color=141414&amp;hide_border=true&amp;v=3#gh-dark-mode-only" alt="PinoleroPrints" /></a>
+[![EquipTracker](https://github-readme-stats.vercel.app/api/pin/?username=RK8hub&repo=EquipTracker&title_color=252525&text_color=777777&bg_color=F2F0EB&hide_border=true&v=3#gh-light-mode-only)](https://github.com/RK8hub/EquipTracker)
+[![EquipTracker](https://github-readme-stats.vercel.app/api/pin/?username=RK8hub&repo=EquipTracker&title_color=F2F0EB&text_color=A5A5A5&bg_color=141414&hide_border=true&v=3#gh-dark-mode-only)](https://github.com/RK8hub/EquipTracker)
+[![PinoleroPrints](https://github-readme-stats.vercel.app/api/pin/?username=RK8-HQ&repo=PinoleroPrints&title_color=252525&text_color=777777&bg_color=F2F0EB&hide_border=true&v=3#gh-light-mode-only)](https://github.com/RK8-HQ/PinoleroPrints)
+[![PinoleroPrints](https://github-readme-stats.vercel.app/api/pin/?username=RK8-HQ&repo=PinoleroPrints&title_color=F2F0EB&text_color=A5A5A5&bg_color=141414&hide_border=true&v=3#gh-dark-mode-only)](https://github.com/RK8-HQ/PinoleroPrints)
 
 | Proyecto | Qué resuelve | Sitio |
 | --- | --- | --- |
