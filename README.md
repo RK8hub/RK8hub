@@ -46,7 +46,6 @@ Desarrollo producto web y herramientas IT bajo la marca [RK8](https://rk8.dev). 
 | --- | --- | --- |
 | **EquipTracker** | Inventario de TI: equipos, operadores, asignaciones e incidencias | [equiptracker.rk8.dev](https://equiptracker.rk8.dev) · [demo](https://demo.equiptracker.rk8.dev) |
 | **PinoleroPrints** | Diseño, sublimación e impresión en Nicaragua | [pinoleroprints.rk8.dev](https://pinoleroprints.rk8.dev) |
-| **Breaks** | Gestión y proyección de días de descanso | [breaks.rk8.dev](https://breaks.rk8.dev) |
 
 ## 02 — Código abierto
 
